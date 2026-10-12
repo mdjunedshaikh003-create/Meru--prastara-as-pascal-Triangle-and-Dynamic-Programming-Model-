@@ -1,0 +1,2 @@
+# Meru--prastara-as-pascal-Triangle-and-Dynamic-Programming-Model-
+Meru Prasthara (Pascal’s Triangle) using Dynamic ProgrammingThis project demonstrates Meru Prasthara, also known as Pascal’s Triangle, using Dynamic Programming to generate its rows. Each number is calculated by adding the two numbers directly above it, illustrating the concept of reusing previously computed values to solve problems efficiently.
